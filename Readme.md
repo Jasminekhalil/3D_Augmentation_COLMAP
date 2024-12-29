@@ -1,6 +1,6 @@
 # Offline 3D Augmentation Using COLMAP
 
-### Complete paper for this project can be found [here](https://jasminekhalil.github.io/assets/pdf/camera_projection_project.pdf) 
+### Complete paper for this project can be found [here](https://jasminekhalil.github.io/assets/pdf/colmapproject.pdf) 
 
 This project describes the development of an **Augmented Reality (AR) Viewer** capable of overlaying virtual objects onto images of real-world scenes. Our **offline implementation** integrates concepts from **computer vision, computer graphics, and geometry.** 
 
