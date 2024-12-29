@@ -20,40 +20,42 @@ offline AR viewer.
 
 ## Initial Views of our Chosen Scene 
 
-![View 1](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/image1.JPG)
-![View 2](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/image2.JPG)
-![View 3](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/image3.JPG)
-![View 4](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/image4.JPG)
-![View 5](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/image5.JPG)
-![View 6](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/image6.JPG)
+
+<img src="image1.JPG" alt="View 1" style="width:150px;"/> <img src="image2.JPG" alt="View 2" style="width:150px;"/>
+<img src="image3.JPG" alt="View 3" style="width:150px;"/>
+<img src="image4.JPG" alt="View 4" style="width:150px;"/>
+<img src="image5.JPG" alt="View 5" style="width:150px;"/>
+<img src="image6.JPG" alt="View 6" style="width:150px;"/>
+<img src="image7.JPG" alt="View 7" style="width:150px;"/>
+
 
 ---
 
 ## COLMAP 3D Reconstruction
 
-![COLMAP Reconstruction](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/colmapreconstruction.png)
+<img src="colmapreconstruction.png" alt="COLMAP Reconstruction" style="width:150px;"/>
 
 ---
 
 ## Dominant Plane of our Scene from RANSAC Algorithm
 
-![Plot of all points and inliers accurately identifying our dominant plane](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/dominantplane.png)
+<img src="Results/dominantplane.png" alt="Dominant Plane" style="width:250px;"/>
 
 
 ## 3D Euclidean transformation of 3D Box onto the Dominant Plane
 
-![Plot of 3D box accurately placed at the center of the dominant plane.](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/3Dscenewithbox.png)
+<img src="Results/3Dscenewithbox.png" alt="3D Scene with Box" style="width:250px;"/>
 
 --- 
 
 ## Views of our Chosen Scene with the 3D Box Projected Onto the Real Scene
 
-![View 1](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/pinkbox1.png)
-![View 2](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/pinkbox2.png)
-![View 3](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/pinkbox3.png)
-![View 4](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/pinkbox4.png)
-![View 5](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/pinkbox5.png)
-![View 6](https://github.com/Jasminekhalil/3D_Augmentation_COLMAP/blob/main/Results/pinkbox6.png)
+<img src="Results/pinkbox1.png" alt="View 1" style="width:150px;"/> <img src="Results/pinkbox2.png" alt="View 1" style="width:150px;"/>
+<img src="Results/pinkbox3.png" alt="View 1" style="width:150px;"/>
+<img src="Results/pinkbox4.png" alt="View 1" style="width:150px;"/>
+<img src="Results/pinkbox5.png" alt="View 1" style="width:150px;"/>
+<img src="Results/pinkbox6.png" alt="View 1" style="width:150px;"/>
+<img src="Results/pinkbox7.png" alt="View 1" style="width:150px;"/>
 
 - **Email**: [jasminekhalil213@gmail.com](mailto:jasminekhalil213@gmail.com)  
 - **LinkedIn**: [JasmineKhalil21](https://www.linkedin.com/in/jasminekhalil21/)
